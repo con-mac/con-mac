@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @con-mac
+- 👋 Hi, I’m Conor
 - 👀 I’m interested in developing my software skills and contributing to opensource projects!
 - 🌱 I’m currently learning Python, Java, C#, (and any complimentary supporting technologies to supplement a given stack)
 - 💞️ I’m looking to collaborate on begginer to intermediate challanging issues. 
